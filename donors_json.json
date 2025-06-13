@@ -2,23 +2,23 @@
   "donors": [
     {
       "name": "Александр Петров",
-      "amount": 1000
+      "amount": 1
     },
     {
       "name": "Мария Иванова",
-      "amount": 500
+      "amount": 5
     },
     {
       "name": "Дмитрий Сидоров",
-      "amount": 2000
+      "amount": 2
     },
     {
       "name": "Елена Козлова",
-      "amount": 750
+      "amount": 7
     },
     {
       "name": "Андрей Волков",
-      "amount": 300
+      "amount": 5
     }
   ]
 }
