@@ -3,6 +3,10 @@
     {
       "name": "slipota",
       "amount": 50
+    },
+    {
+      "name": "arsenal",
+      "amount": 50
     }
   ]
 }
